@@ -13,12 +13,13 @@ This web application that is made using the following technologies: <br>
 
 ## Main functionnalities:
 
-Aims to enable students to: <br>
+This application aims to enable students to: <br>
 
 
 <ul>
   <li>Request one or more of the four available school documents for a specific purpose.</li>
   <li>Submit a complaint if necessary.</li>
 </ul>
-<br>
+
+
 The application validates all the information provided by students while filling out the form before definitively validating its submission for further administrative processing.
