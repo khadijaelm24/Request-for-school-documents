@@ -9,7 +9,7 @@ This web application that is made using the following technologies: <br>
   <li>Ajax</li>
   <li>MySQL(For Relational Database's management) </li>
 </ul>
-<br>
+
 
 ## Main functionnalities:
 
