@@ -1,5 +1,7 @@
 # Request-for-school-documents
 
+## Used technologies:
+
 This web application that is made using the following technologies: <br>
 <ul>
   <li>Laravel</li>
@@ -8,7 +10,12 @@ This web application that is made using the following technologies: <br>
   <li>MySQL(For Relational Database's management) </li>
 </ul>
 <br>
+
+## Main functionnalities:
+
 Aims to enable students to: <br>
+
+
 <ul>
   <li>Request one or more of the four available school documents for a specific purpose.</li>
   <li>Submit a complaint if necessary.</li>
